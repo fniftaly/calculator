@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "funct.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
